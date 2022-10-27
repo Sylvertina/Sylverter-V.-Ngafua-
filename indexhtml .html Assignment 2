@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="=en">
+  <head>
+    <meta charset=UTF 12">
+    <meta name=author " Sylvester V.Ngafua>
+    <title>ART 277 ASSIGNMENT TWO</title>
+  </head>
+ <!..i started my first paragraph..>
+  <body> 
+      <p>
+                <h2>My favorite habit</h2>
+                <ul type=square>
+                  <li>Reading Books</li>
+                  <li>Watching Movies</li>
+                  <li>Programming Language</li>
+                </ul>
+                        <ul type=circle>
+                          <li>Orange</li>
+                          <li>Green </li>
+                          <li>White </li>
+                        </ul>
+      <h3>Four things to expect in life</h3>
+      <ul type circle>
+        <li><b>Love</li></b>
+      </ul>
+      <ol type="I">
+        <li>Happiness </li>
+        <li>Emotions</li>
+      <ol>
+  <ul type="circle">
+  <li><b>Hate</li></b>
+  </ul>
+  <ol type="I">
+    <li>Fear</li>
+    <li>Shame</li>
+  </ol>
+  <ul type="circle">
+    <li><b>Work</li></b>
+  </ul>
+  <ol type="I">
+    <li>Jobs</li>
+    <li>Careers</li>
+  </ol>
+  <ul type="circle">
+    <li><b>Play</li></b>
+  <ul>
+  <ol type="I">
+    <li>Retirement </li>
+    <li>Recreation </li>
+  </ol>
+  <h2><b>List of Items </b></h2>
+  <ul type ="square">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+  </ul>
+  <ul type ="circle">
+    <li>sub-item 1</li>
+    <li>sub-item 2</li>
+    <li>sub-item 3</li>
+  </ul>
+  <ul type ="square">
+    <li>Sub-sub-item 1</li>
+    <li>Sub-sub-item 2</li>
+    <li>Sub-sub-item 3</li>
+   </ul>
+   <ul type ="circle">
+     <li>Sub-sub-sub-item 1</li>
+     <li>Sub-sub-sub-item 2</li>
+     <li>Sub-sub-sub-item 3</li>
+     <li>Sub-sub-sub-item 4</li>
+  </ul>
+  <ul type ="square">
+    <li>Sub-sub-item 4</li>
+  </ul>
+  <ul type ="circle">
+    <li>Sub-item 4</li>
+</ul>
+<ul type="square">
+  <li>Item 5</li>
+  <li>Item 6</li>
+</ul>
+ </p>
+ <p>
+   <h2>Aircraft Types</h2>
+   <ul type="circle">
+ <li>General Aviation(Piston-driven engines</li>
+  </ul>
+  <ol>
+    <li>Single-Engine Aircraft</li>
+    </ol><ol type="I">
+      <li>Tail Wheel</li>
+      <li>Tricycle </li>
+    </ol><ol>
+      <li>Dual-Engine Aircraft </li>
+    </ol><ol type="A">
+      <li>Wing-mounted engines </li>
+      <li>Push-pull fuselage-mounted engines </li>
+    </ol><ul type="circle">
+      <li>Commercial Aviation(jet engines)</li>
+    </ul><ol>
+      <li>Dual-engines</li>
+    </ol><ol type="a">
+      <li>Wing-mounted engines </li>
+      <li>Fuselage-mounted engines </li>
+    </ol><ol>
+      <li>Tri-Engine </li>
+    </ol> <ol type="i">
+      <li>Third engine in vertical stabilizer</li>
+      <li>Third engines in fuselage</li>
+    </ol>
+    <h1>GOD BLESS YOU </h1>
+ </p>
+  
+  </body>
+   </html>
